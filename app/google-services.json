@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331872371425",
+    "project_id": "bookshaap",
+    "storage_bucket": "bookshaap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331872371425:android:7e4c01c13d96df1583eda0",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331872371425-vu1akuh128cgcpvtr3psp9r87dvbc2sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo91IcE42QeCWk419ValOrd3fWjIBDnFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331872371425-vu1akuh128cgcpvtr3psp9r87dvbc2sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
